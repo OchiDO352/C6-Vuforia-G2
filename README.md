@@ -1,0 +1,1 @@
+# C6-Vuforia-G2
